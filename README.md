@@ -7,7 +7,7 @@ To practice creating the front-end of a professional-quality design without the 
 
 ## Showcase 
 
-![Website Showcase](img/showcase.gif)
+![Website Showcase](images/showcase.gif)
 
 
 ## Technology
