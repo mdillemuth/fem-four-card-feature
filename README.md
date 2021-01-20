@@ -1,6 +1,6 @@
 ## Solution to Frontend Mentor "Four Card Feature Section"
 - Responsive landing-page implemented in HTML & CSS from provided design assets and mockup.
-- [Viewable Live](https://sleepy-boyd-2023be.netlify.app/)
+- [Viewable Live](https://mdillemuth.github.io/fem-four-card-feature/)
 
 ## Motivation 
 To practice creating the front-end of a professional-quality design without the use of a tutorial, answer-key, or previous solution. 
